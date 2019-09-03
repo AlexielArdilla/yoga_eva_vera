@@ -868,7 +868,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .bottom {
-  background-color: #be1abe;
+  background-color: #861286;
   padding: 20px 0;
 }
 
@@ -892,11 +892,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits {
-  color: #ddd;
+  color: #fff;
 }
 
 .site-footer .credits a {
-  color: #E04F00;
+  color: #fff;
 }
 
 /* ==================================================
