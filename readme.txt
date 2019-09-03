@@ -1,4 +1,4 @@
-#Página de yoga para emprendimiento
+## Página de yoga para emprendimiento
 
 Thanks for downloading this theme!
 
